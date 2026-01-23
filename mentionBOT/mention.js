@@ -478,3 +478,4 @@ const mode = parseInt(readline.question("Select mode (1-3): ") || "1");
   // Keep program running
   await new Promise(() => {});
   
+})();
